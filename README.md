@@ -35,7 +35,7 @@ npm install
 
 ### 3️ Add API key
 ```
-your_openweathermap_api_key
+your_openweathermap_api_key: Open-Meteo API.
 ```
 
 ### 4️ Run locally
@@ -54,8 +54,8 @@ Open: [http://localhost:5173](http://localhost:5173)
 ##  Deployment
 You can deploy this project to:  
 - **CodeSandbox** → import repo  
-
-
+https://codesandbox.io/p/github/nareshsangem/Weather-Now/main?import=true
+vercel : https://weather-now-alpha-one.vercel.app/
 ---
 
 ##  Demo Screenshot
